@@ -34,13 +34,13 @@ client.on('ready', async () => {
   setInterval(() => {
     const moment = require('moment');
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
-    const change = ['https://cdn.discordapp.com/attachments/1024219781185937418/1222165883330232330/ogogog.gif?ex=661539ad&is=6602c4ad&hm=f3cc66a144db108574b3c58f826271becd61ea70207252c1ed8789cbf7a10890&']; //รูปใหญ่
+    const change = ['https://cdn.discordapp.com/attachments/1024219781185937418/1225406749356462143/baghaa.gif?ex=662103f8&is=660e8ef8&hm=e9512d68ee2980398999a55b0f8d6c88a0d4ec1df5ee970b07c24f4d7c24b834&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
     const change2 = [' ']; // ชื่อสลับ
     const yyyt = ['Instagram']; // ชื่อ button1
     const ddds = ['https://www.instagram.com/bbyszzjxane?igsh=czFpNzB2aXZzcGZj&utm_source=qr']; // ลิ้ง button1
 
-   const iooi = ['COSMO 24/7']; // ชื่อ button 2
+   const iooi = ['8425 GVAELUK']; // ชื่อ button 2
    const iiio = ['https://discord.gg/cosmocommunity']; // ลิ้ง button 2
    const tyyy = yyyt[Math.floor(Math.random()*yyyt.length)]; // ชื่อ button 2
    const sddd = ddds[Math.floor(Math.random()*ddds.length)]; // ลิ้ง button 2
@@ -59,7 +59,7 @@ change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
       .setURL('https://www.youtube.com/watch?v=yFg7_bjl2-k')
       .setState(`🍃 : ${global.wind} Km/h | 🌡 : ${global.temp} C°`)
       .setName(`RobShop`)
-      .setDetails(`Cosmo Community 24/7`)
+      .setDetails(`𝟴𝟰𝟮𝟱 𝙂𝙑𝘼𝙀𝙇𝙐𝙆`)
       //.setAssetsSmallImage(`${popp}`) 
 .setAssetsLargeImage(`${ssss}`)
 .setAssetsLargeText(`（  ${getTime()} ） • （ ${moment().format('DD/MM/YYYY')} ）`)
